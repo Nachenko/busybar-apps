@@ -4,13 +4,14 @@
      Do not edit: the Apps index workflow rewrites this file after every
      push to main. -->
 
-All 49 apps in the gallery, A to Z. Each has a page in the
+All 50 apps in the gallery, A to Z. Each has a page in the
 [live gallery](https://maxswinkels.github.io/busybar-apps/) with its preview at full size, and a folder here
 with its code. *zero-install* apps need only Python: they have no
 `requirements.txt`.
 
 | Preview | App | What it does | Tags |
 | --- | --- | --- | --- |
+| <a href="apple-music-winamp/"><img src="apple-music-winamp/preview.gif" width="288" alt="Apple Music Winamp"></a> | [**Apple Music Winamp**](apple-music-winamp/)<br>by [@Nachenko](https://github.com/Nachenko)<br>[gallery page](https://maxswinkels.github.io/busybar-apps/apps/apple-music-winamp/)<br>*zero-install* | macOS Apple Music controls with song, artist, progress, a time counter, decorative Winamp-style visualizers, and animated lightning credits. | `music` `animation` `info` `effect` |
 | <a href="audio-visualizer/"><img src="audio-visualizer/preview.gif" width="288" alt="Audio Visualizer"></a> | [**Audio Visualizer**](audio-visualizer/)<br>by [@maxswinkels](https://github.com/maxswinkels)<br>[gallery page](https://maxswinkels.github.io/busybar-apps/apps/audio-visualizer/)<br>*zero-install* | Live microphone spectrum on the LEDs: five render styles (bars, mirror, segments, dots, wave) and colour themes. | `audio` `effect` `music` |
 | <a href="bad-apple/"><img src="bad-apple/preview.gif" width="288" alt="Bad Apple"></a> | [**Bad Apple**](bad-apple/)<br>by [@codynhanpham](https://github.com/codynhanpham)<br>[gallery page](https://maxswinkels.github.io/busybar-apps/apps/bad-apple/)<br>*zero-install* | It has a screen? It can play Bad Apple. And yes, with audio, too! | `animation` `meme` `music` `effect` |
 | <a href="buienradar-alarm/"><img src="buienradar-alarm/preview.gif" width="288" alt="Buienradar Alarm"></a> | [**Buienradar Alarm**](buienradar-alarm/)<br>by [@maxswinkels](https://github.com/maxswinkels)<br>[gallery page](https://maxswinkels.github.io/busybar-apps/apps/buienradar-alarm/)<br>*zero-install* | Dutch rain alarm that takes the screen only when rain is coming. Shows minutes until rain or until dry, plus a 2-hour Buienradar intensity timeline colored from drizzle to downpour. | `weather` `info` |
